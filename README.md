@@ -1,2 +1,2 @@
 # To-do-Redux
-Basic TODO app using Redux
+Basic TO-DO app using Redux
